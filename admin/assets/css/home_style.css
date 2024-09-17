@@ -1,0 +1,25 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+#jumbotron {
+	padding-top: 4rem;
+}
+
+#offer {
+	background-color: #57CC99;
+}
+
+.btn-pricelist {
+	background-color: #22577A;
+}
+
+.btn-pricelist:hover {
+	background-color: #22577A;
+	border: 1px solid #22577A;
+}
+
+.btn-pricelist:active {
+	background-color: #22577A;
+	border: 1px solid #22577A;
+}

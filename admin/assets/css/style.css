@@ -1,0 +1,151 @@
+* {
+	font-family: 'Montserrat', sans-serif;;
+}
+
+#bg-navbar {
+	background-color: #22577A;
+}
+
+.jumbotron {
+	margin-top: 5rem;
+}
+
+.heading {
+	color: #22577A;
+	font-weight: bold;
+}
+
+.heading-second {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+.text-primary-regular {
+	color: #22577A;
+}
+
+.text-primary-regular:hover {
+	color: #22577A;
+}
+
+
+.text-primary-bold {
+	color: #22577A;
+	font-weight: bold;
+}
+
+.text-primary-bold:hover {
+	color: #22577A;
+	font-weight: bold;
+}
+
+.text-second-regular {
+	color: #FFFFFF;
+}
+
+.text-second-bold {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+.btn-go-primary {
+	background-color: #22CC99;
+	border-color: #22CC99;
+	color: #22577A;
+	font-weight: bold;
+}
+
+.btn-go-primary:hover {
+	background-color: #22CC99;
+	border-color: #22CC99;
+	color: #22577A;
+	font-weight: bold;
+}
+
+.btn-go-second {
+	background-color: #22CC99;
+	border-color: #22CC99;
+	color: #FFFFFF;
+	width: 100%;
+}
+
+.btn-go-second:hover {
+	background-color: #22CC99;
+	border-color: #22CC99;
+	color: #FFFFFF;
+	width: 100%;
+}
+
+.btn-login-primary {
+	background-color: #22CC99;
+	border-color: #22CC99;
+	color: #FFFFFF;
+	font-weight: bold;
+	border-radius: 50px;
+}
+
+.btn-login-primary:hover {
+	background-color: #22CC99;
+	border-color: #22CC99;
+	color: #FFFFFF;
+	font-weight: bold;
+	border-radius: 50px;
+}
+
+#step {
+	margin-top: 5rem;
+}
+
+#question {
+	margin-top: 5rem;
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+	background-color: #22577A;
+}
+
+.heading-question {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+.text-question {
+	color: #FFFFFF;
+}
+
+
+#other {
+	margin-top: 5rem;
+	margin-bottom: 5rem;
+}
+
+#footer {
+	margin-top: 5rem;
+	background-color: #22577A;
+	padding-top: 1rem;
+}
+
+/*
+store
+*/
+
+#banner {
+	margin-top: 6rem;
+}
+
+.bg-category {
+	background-color: #F3F1F5;
+}
+
+.btn-outline-go {
+	background-color: #22CC99;
+	color: #FFFFFF;
+}
+
+/*
+detail
+store
+*/
+
+#detail {
+	margin-top: 8rem;
+}
